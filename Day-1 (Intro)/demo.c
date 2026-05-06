@@ -7,16 +7,5 @@ int main(){ // 2 type of return type- 1)void = null 2)int = integers number valu
     // printf("Hello C learners! \n"); // "\n = next line"
     // printf("Hello Mam!");
 
-    char name[20];
-    int age;
-    printf("enter name: ");
-    scanf("%s", &name);
-    printf("Name: %s\n", name);
-
-    printf("enter age: ");
-    scanf("%d", &age);
-    printf("Age: %d", age);
-
-
     return 0;
 }
