@@ -1,4 +1,4 @@
-// Syntax of Enum: enum keyword
+// Syntax of Enumerator: enum keyword
 /*
 enum variable_name {value1, value2, value3.....};
 Enum: Groups name constants(integers)

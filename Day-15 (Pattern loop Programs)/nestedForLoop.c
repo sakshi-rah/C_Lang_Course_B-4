@@ -1,14 +1,5 @@
 
 
-
-/* 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-*/
-
 #include<stdio.h>
 
 int main(){
@@ -32,8 +23,6 @@ int main(){
     *
     * *
     * * *
-    * * * *
-    * * * * *
 */
 
 printf("Right angle triangle number pattern program: \n");

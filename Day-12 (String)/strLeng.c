@@ -1,6 +1,12 @@
 /*
 String Handling Function in C Programming
 strlen() = finding the length of string
+strcat() = two string join
+strcpy() = one string copy in another string
+strcmp() = compare two string
+strlwr() = string lowercase
+strupr() = string uppercase
+strrev() = string reverse
 
 */
 
