@@ -18,13 +18,6 @@ Types of Function:
     call the function:
     function_name(Aug list); => in main function
 
-** Category of user defined function:*
-
-1.Function with no aug and no return value 
-2.Function with aug and no return value
-3.Function with no aug and return value
-4.Function with aug and return value
-
 */
 
 #include<stdio.h>
@@ -35,13 +28,10 @@ int get(){
     return 0;
 }
 
-void main(){
+int main(){
     // calling the function
     get();
     get();
-    get();
-    get();
-    get();
-    return;
+    return 0;
 }
 
